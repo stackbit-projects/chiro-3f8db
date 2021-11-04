@@ -19,6 +19,14 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    subtitle: >-
+      Located in the heart of the beautiful garden route, Cloete Chiropractic
+      and team are a dedicated group of health care professionals that aim to
+      achieve optimal health for you and your family.  We take a
+      multi-disciplinary approach to health care and we are dedicated to using
+      only the most modern equipment and techniques in our practice.  If you are
+      new to our website then feel free to explore and learn more about us and
+      what we do.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
