@@ -71,10 +71,21 @@ sections:
         subtitle: >-
           Chiropractor’s focus is to firstly evaluate the biomechanical
           structure of the spine.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Upon evaluation the chiropractor will ensure that each individual
+          vertebra is able to move in its normal range of motion. This is done
+          through various techniques of careful manipulation, ‘adjustment’. This
+          process involves high velocity, low amplitude thrust, (a non-invasive
+          treatment) with the goal of relieving patients of any pain, stiffness
+          or weakness in the body. Many people associate a ‘popping’ or
+          ‘cracking’ noise with a chiropractic adjustment, this can result in
+          people being hesitant in visiting a chiropractor. However, this is
+          normal and is known as a ‘cavitation’. All joints in the body are
+          lined with synovial fluid, which acts as a form of lubrication. During
+          a cavitation, this will result in the release of gases from the joints
+          within your spine, providing patients with a sense of relief.
+          Chiropractic adjustments have been proven to be medically safe and
+          effective in nature.
         actions:
           - label: See Writing Samples
             url: /faq
