@@ -50,7 +50,7 @@ sections:
           enhance balance. Chiropractic adjustments will also improve the
           overall health and range of motion, leading to an active lifestyle in
           years of elderliness.
-      - title: How do you base your pricing?
+      - title: Chiropractic Treatment and Office Jobs
         content: >-
           Depending on the scope and timeline of your content needs, we can work
           on a retainer basis, an hour bank, or a per-project basis. Once I
