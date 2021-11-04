@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
+      - title: What can you expect during your first chiropractic adjustment?
         content: >
           Chiropractors focus on using non-invasive treatment options that are
           effective for all stages of life. Chiropractors can assist pregnant
