@@ -68,7 +68,9 @@ sections:
     subtitle: What I do
     features:
       - title: What can you expect during you first chiropractic adjustment?
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: >-
+          Chiropractor’s focus is to firstly evaluate the biomechanical
+          structure of the spine.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
