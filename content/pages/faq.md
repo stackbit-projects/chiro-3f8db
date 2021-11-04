@@ -51,11 +51,19 @@ sections:
           overall health and range of motion, leading to an active lifestyle in
           years of elderliness.
       - title: Chiropractic Treatment and Office Jobs
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >
+          In today’s intensely driven workforce, many people are forced to work
+          from their desks and laptops for long periods of time. Factors such as
+          poor posture and sitting for too long are two of the leading causes of
+          chiropractors seeing an increase in patients who are facing serious
+          spinal problems, headaches, neck pain, tightness in the trapezius area
+          and many more symptoms. The human body was not created for such
+          strenuous activities, creating room for serious long term damage.
+          However, chiropractic treatment reduces and eliminates these symptoms
+          and places the body back into the correct alignment, providing relief
+          to many patients, as the excessive pressure placed on nerves in the
+          body can be relieved. Adjustment allows the body to function
+          optimally, removing excess pressure from the musculoskeletal system.
       - title: What if my business is technical?
         content: >-
           No product or service is too technical to learn and understand. Part
