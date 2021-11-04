@@ -72,7 +72,7 @@ sections:
           Chiropractor’s focus is to firstly evaluate the biomechanical
           structure of the spine.
         actions:
-          - label: See Writing Samples
+          - label: Learn More
             url: /faq
             style: primary
             has_icon: true
