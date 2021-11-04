@@ -98,7 +98,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Chiropractic Treatment and Office Jobs
-        subtitle: 'Your products and services, at scale.'
+        subtitle: >-
+          Factors such as poor posture and sitting for too long are two of the
+          leading causes of chiropractors seeing an increase in patients who are
+          facing serious spinal problems
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
