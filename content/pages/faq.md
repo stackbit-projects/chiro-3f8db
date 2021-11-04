@@ -12,20 +12,27 @@ sections:
     grid_items:
       - title: What is your process?
         content: >
-          Upon evaluation the chiropractor will ensure that each individual
-          vertebra is able to move in its normal range of motion. This is done
-          through various techniques of careful manipulation, ‘adjustment’. This
-          process involves high velocity, low amplitude thrust, (a non-invasive
-          treatment) with the goal of relieving patients of any pain, stiffness
-          or weakness in the body. Many people associate a ‘popping’ or
-          ‘cracking’ noise with a chiropractic adjustment, this can result in
-          people being hesitant in visiting a chiropractor. However, this is
-          normal and is known as a ‘cavitation’. All joints in the body are
-          lined with synovial fluid, which acts as a form of lubrication. During
-          a cavitation, this will result in the release of gases from the joints
-          within your spine, providing patients with a sense of relief.
-          Chiropractic adjustments have been proven to be medically safe and
-          effective in nature.
+          Chiropractors focus on using non-invasive treatment options that are
+          effective for all stages of life. Chiropractors can assist pregnant
+          women in their different stages of pregnancy, ensuring correct pelvic
+          balance, which creates room for the baby during foetal development.
+          Many women experience back pain during pregnancy, this pain can be
+          relieved through chiropractic treatment, ensuring a smooth delivery
+          process. During the birthing process, certain procedures occur which
+          cause subluxation. This as well as other common conditions such as
+          colic, sleeping problems, fussiness etc, can be alleviated through
+          chiropractic treatment. Toddlers enter phases of learning
+          co-ordination, which results in stress being placed on their muscles
+          and joints, it is imperative that they receive treatment that supports
+          their small bodies. Common conditions such as sports injuries,
+          headaches, neck pain, muscle pain, back pain, and poor posture can be
+          experienced by young adolescents. Chiropractic care can help with
+          relieving these various forms of pain and allowing optimal day to day
+          function. Chiropractic treatment can be instrumental in helping
+          seniors eliminate pain, improve flexibility, increase strength and
+          enhance balance. Chiropractic adjustments will also improve the
+          overall health and range of motion, leading to an active lifestyle in
+          years of elderliness.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
