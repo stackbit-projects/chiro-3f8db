@@ -3,8 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: >-
-      My answers
+    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
@@ -12,12 +11,21 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is your process?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          Upon evaluation the chiropractor will ensure that each individual
+          vertebra is able to move in its normal range of motion. This is done
+          through various techniques of careful manipulation, ‘adjustment’. This
+          process involves high velocity, low amplitude thrust, (a non-invasive
+          treatment) with the goal of relieving patients of any pain, stiffness
+          or weakness in the body. Many people associate a ‘popping’ or
+          ‘cracking’ noise with a chiropractic adjustment, this can result in
+          people being hesitant in visiting a chiropractor. However, this is
+          normal and is known as a ‘cavitation’. All joints in the body are
+          lined with synovial fluid, which acts as a form of lubrication. During
+          a cavitation, this will result in the release of gases from the joints
+          within your spine, providing patients with a sense of relief.
+          Chiropractic adjustments have been proven to be medically safe and
+          effective in nature.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
@@ -64,20 +72,20 @@ seo:
   title: Frequently Asked Questions
   description: This is the faq page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Frequently Asked Questions
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the faq page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Frequently Asked Questions
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the faq page
 layout: advanced
 ---
