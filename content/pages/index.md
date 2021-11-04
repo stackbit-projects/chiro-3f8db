@@ -33,7 +33,7 @@ sections:
       about us and what we do.
   - type: grid_section
     title: My services
-    subtitle: Who I work with
+    subtitle: What I do
     align: center
     grid_items:
       - image: images/logo-1.svg
