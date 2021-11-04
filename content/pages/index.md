@@ -3,12 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Cloete Chiropractic
-    subtitle: >-
-      Located in the heart of the beautiful garden route, Cloete Chiropractic
-      and team are a dedicated group of health care professionals that aim to
-      achieve optimal health for you and your family.I will handle your website
-      design and production, social media accounts and digital advertisements
-      for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
