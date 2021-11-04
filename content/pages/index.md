@@ -101,10 +101,7 @@ sections:
         subtitle: >-
           Chiropractors focus on using non-invasive treatment options that are
           effective for all stages of life.
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: "\_Chiropractors can assist pregnant women in their different stages of pregnancy, ensuring correct pelvic balance, which creates room for the baby during foetal development. Many women experience back pain during pregnancy, this pain can be relieved through chiropractic treatment, ensuring a smooth delivery process. During the birthing process, certain procedures occur which cause subluxation. This as well as other common conditions such as colic, sleeping problems, fussiness etc, can be alleviated through chiropractic treatment. Toddlers enter phases of learning co-ordination, which results in stress being placed on their muscles and joints, it is imperative that they receive treatment that supports their small bodies. Common conditions such as sports injuries, headaches, neck pain, muscle pain, back pain, and poor posture can be experienced by young adolescents. Chiropractic care can help with relieving these various forms of pain and allowing optimal day to day function. Chiropractic treatment can be instrumental in helping seniors eliminate pain, improve flexibility, increase strength and enhance balance. Chiropractic adjustments will also improve the overall health and range of motion, leading to an active lifestyle in years of elderliness.\n"
         actions:
           - label: Learn More
             url: /about
