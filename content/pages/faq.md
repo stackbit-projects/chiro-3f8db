@@ -33,7 +33,7 @@ sections:
           enhance balance. Chiropractic adjustments will also improve the
           overall health and range of motion, leading to an active lifestyle in
           years of elderliness.
-      - title: Can you manage our social media?
+      - title: Chiropractic Care for All Ages
         content: >
           Chiropractors focus on using non-invasive treatment options that are
           effective for all stages of life. Chiropractors can assist pregnant
