@@ -40,6 +40,9 @@ sections:
         image_alt: Logo 1
         image_align: center
         content_align: center
+        content: >
+          ### Fairview office park nr.2&#xA;Cnr. Of Knysna road and 1st
+          avenue&#xA;&#xA;
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
