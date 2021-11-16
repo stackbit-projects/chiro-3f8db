@@ -67,9 +67,10 @@ sections:
         media_width: sixty
       - title: Why should Athletes see a Chiropractor?
         subtitle: >-
-          Factors such as poor posture and sitting for too long are two of the
-          leading causes of chiropractors seeing an increase in patients who are
-          facing serious spinal problems
+          Many athletes both professionals and amateurs choose to go for
+          chiropractic care. This is because Chiropractic can improve range of
+          motion, reduce pain, decrease recovery time, assist in injury repair
+          and lead to overall optimal wellness.
         actions:
           - label: Learn More
             url: /faq
