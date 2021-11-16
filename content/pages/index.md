@@ -50,6 +50,7 @@ sections:
         content: >
           ### George Practice:&#xA;Fairview office park nr.2&#xA;Cnr. Of Knysna
           road and 1st avenue
+        title: Mosselbay practice
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
