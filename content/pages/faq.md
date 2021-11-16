@@ -84,11 +84,17 @@ sections:
           body responds to the sport type so we can get the athlete to their
           optimal level.
       - title: Is Chiropractic safe?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: >
+          Chiropractic treatment is safe when performed by licenced and trained
+          Dr's of Chiropractic. Complications of a serious nature are very rare.
+          At Cloete Chiropractic we have years of experience and all our Dr's
+          have full Masters degrees in Chiropractic from globally accredited
+          Universities.
+
+
+
+          We take safety and our patients health seriously. We understand that
+          each patient is unique and therefore needs unique and gentle care.
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
