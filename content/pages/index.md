@@ -63,7 +63,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: What we do
     features:
       - title: What can you expect during you first chiropractic adjustment?
         subtitle: >-
