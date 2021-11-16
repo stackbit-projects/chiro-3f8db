@@ -27,7 +27,7 @@ sections:
           result in the release of gases from the joints within your spine,
           providing patients with a sense of relief. Chiropractic adjustments
           have been proven to be medically safe and effective in nature.
-      - title: Chiropractic Care for All Ages
+      - title: Is Chiropractic Care for All Ages?
         content: >
           Chiropractors focus on using non-invasive treatment options that are
           effective for all stages of life. Chiropractors can assist pregnant
