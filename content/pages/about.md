@@ -4,43 +4,50 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
 
-![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+![](/images/160995144\_238402021310606\_5535248550972925625\_n.jpg)
 
-## Credentials
+Dr. Gert Cloete
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+Dr. Gert Cloete grew up in Namibia and moved back to his birth country of South Africa to study Chiropractic in 2007.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+Growing up he always had a keen interest in all types of sports. At school he participated in Inline Hockey, Golf, Skydiving and Athletics. It was through Golf that that he developed his interest for Chiropractic.
 
+Being part of the junior golf team to represent Namibia at the All-Africa golf tournament in 2005, he had a great golf mentor that was also a Chiropractor. This Mentor was Dr. Athol McLean from Swakopmund. He taught Dr. Gert about the importance of Chiropractic in sport and for general well being.
 
+Dr. Gert Then decided to study Chiropractic at the University of Johannesburg in 2007, finishing his masters degree at the beginning of 2013.
 
-## Writing for Action
+Dr. Gert Cloete and his beautiful wife Nancy then moved to George in 2012 to start CLOETE CHIROPRACTIC.
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+"We live in the most beautiful town in South Africa. The People are amazing and it is just such a privilege to bring such a great profession to this amazing town and its people. Its great to be a Georgiet!"
+
+Dr Inge van der Vyver
+
+Dr Inge van der Vyver recently moved from Johannesburg to the Western Cape after completing her Master’s degree in Chiropractic at the University of Johannesburg.  She is now part of Cloete Chiropractic practices in George and Mosselbay.She has 2 years of clinical patient experience working at the University’s clinic and one year in private practice with us.Inge knew from a young age, that she wanted to work in the medical profession.  She has a passion for people and especially those suffering with pain.She suffered from a hip injury herself at school, playing sport.  She was treated by a chiropractor Dr Cherise Arrandale, and after seeing and experiencing the benefits of Chiropractic care,  she just knew that this is what she wanted to do.God has called her to be  a compassionate person with a desire to help people.  Inge enjoys an active lifestyle, and relishes every opportunity she gets to spend some time on the golf course.
+
+She believes that everyone deserves optimal quality of life and can not wait to see how Chiropractic can make a positive change in your life, as it did in hers.
