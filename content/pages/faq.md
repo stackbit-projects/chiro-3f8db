@@ -50,7 +50,9 @@ sections:
           enhance balance. Chiropractic adjustments will also improve the
           overall health and range of motion, leading to an active lifestyle in
           years of elderliness.
-      - title: "Can Chiropractic Care help with the postural\_ pain I experience at my office job?"
+      - title: >-
+          Can Chiropractic Care help with the postural pain I experience at my
+          office job?
         content: >
           In today’s intensely driven workforce, many people are forced to work
           from their desks and laptops for long periods of time. Factors such as
