@@ -57,6 +57,7 @@ sections:
           Dr Inge van der Vyver
         title: Mosselbay practice
         title_align: center
+        content_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
