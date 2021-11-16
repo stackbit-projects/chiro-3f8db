@@ -32,7 +32,7 @@ sections:
       If you are new to our website then feel free to explore and learn more
       about us and what we do.
   - type: grid_section
-    title: Our Location
+    title: Location
     subtitle: Where to find us
     align: center
     grid_items:
