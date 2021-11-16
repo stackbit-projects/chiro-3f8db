@@ -28,11 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-
 ![](/images/160995144\_238402021310606\_5535248550972925625\_n.jpg)
 
-Dr. Gert Cloete
+## Dr. Gert Cloete
 
 Dr. Gert Cloete grew up in Namibia and moved back to his birth country of South Africa to study Chiropractic in 2007.
 
@@ -46,7 +44,7 @@ Dr. Gert Cloete and his beautiful wife Nancy then moved to George in 2012 to sta
 
 "We live in the most beautiful town in South Africa. The People are amazing and it is just such a privilege to bring such a great profession to this amazing town and its people. Its great to be a Georgiet!"
 
-Dr Inge van der Vyver
+## Dr Inge van der Vyver
 
 Dr Inge van der Vyver recently moved from Johannesburg to the Western Cape after completing her Master’s degree in Chiropractic at the University of Johannesburg.  She is now part of Cloete Chiropractic practices in George and Mosselbay.She has 2 years of clinical patient experience working at the University’s clinic and one year in private practice with us.Inge knew from a young age, that she wanted to work in the medical profession.  She has a passion for people and especially those suffering with pain.She suffered from a hip injury herself at school, playing sport.  She was treated by a chiropractor Dr Cherise Arrandale, and after seeing and experiencing the benefits of Chiropractic care,  she just knew that this is what she wanted to do.God has called her to be  a compassionate person with a desire to help people.  Inge enjoys an active lifestyle, and relishes every opportunity she gets to spend some time on the golf course.
 
