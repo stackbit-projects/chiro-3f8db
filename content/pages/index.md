@@ -32,7 +32,7 @@ sections:
       If you are new to our website then feel free to explore and learn more
       about us and what we do.
   - type: grid_section
-    title: Our Practise
+    title: Our Location
     subtitle: What I do
     align: center
     grid_items:
