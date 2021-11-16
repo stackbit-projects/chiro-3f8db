@@ -166,16 +166,6 @@ sections:
       - content: "The treatment I received from Dr. Gert Cloete was amazing. I managed to run the last stage of the Dryland Traverse after missing both the first and second stages due to calf injury. Dr. Gert had all his equipment at the race, and I was surprised to see the passion he had for his job. I won’t ever hesitate to refer anybody to him.\n\n**Prodigal Kumalo,** (Comrades Marathon Gold Medalist)\r"
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
