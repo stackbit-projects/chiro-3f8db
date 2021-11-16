@@ -65,9 +65,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: >-
-          Can Chiropractic Care help with the postural pain I experience at my
-          office job?
+      - title: Why should Athletes see a Chiropractor?
         subtitle: >-
           Factors such as poor posture and sitting for too long are two of the
           leading causes of chiropractors seeing an increase in patients who are
