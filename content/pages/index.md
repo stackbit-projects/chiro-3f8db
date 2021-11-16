@@ -41,7 +41,11 @@ sections:
         image_align: center
         content_align: center
         content: |
-          ### &#xA;&#xA;
+          Fairview office park nr.2
+
+          Cnr. Of Knysna road and 1st avenue
+
+          Dr. Gert Cloete
         title: George Practice
       - image: images/logo-2.svg
         image_alt: Logo 2
