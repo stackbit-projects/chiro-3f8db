@@ -168,7 +168,7 @@ sections:
         image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: small
     align: center
     background_color: secondary
     background_image: images/watercolor.png
