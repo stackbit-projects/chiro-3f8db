@@ -55,7 +55,7 @@ sections:
           21st Avenue Mosselbay 
 
           Dr Inge van der Vyver
-        title: Mosselbay practice
+        title: Mosselbay Practice
         title_align: center
         content_align: center
     grid_cols: two
