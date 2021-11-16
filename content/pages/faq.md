@@ -96,11 +96,12 @@ sections:
           We take safety and our patients health seriously. We understand that
           each patient is unique and therefore needs unique and gentle care.
       - title: Why choose Cloete Chiropractic?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >
+          At Cloete Chiropractic our staff and Dr's are committed to our
+          patients health and well being. We love our patients and always want
+          to go the extra mile to help a patient to optimum health. We use state
+          of the art equipment and techniques to help a patient on their journey
+          to recovery as quickly as possible.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
