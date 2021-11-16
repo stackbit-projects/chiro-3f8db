@@ -83,7 +83,7 @@ sections:
           We are committed to understanding the sport biomechanics and how the
           body responds to the sport type so we can get the athlete to their
           optimal level.
-      - title: How do you base your pricing?
+      - title: Is Chiropractic safe?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
