@@ -163,12 +163,14 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          The treatment I received from Dr. Gert Cloete was amazing. I managed
+          to run the last stage of the Dryland Traverse after missing both the
+          first and second stages due to calf injury. Dr. Gert had all his
+          equipment at the race, and I was surprised to see the passion he had
+          for his job. I won’t ever hesitate to refer anybody to him.
 
-
-          **Hanson Deck,** *App Developer, Studio*
+              Prodigal Kumalo,
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
