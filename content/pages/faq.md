@@ -67,11 +67,22 @@ sections:
           body can be relieved. Adjustment allows the body to function
           optimally, removing excess pressure from the musculoskeletal system.
       - title: Why should Athletes see a Chiropractor?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: >
+          Many athletes both professionals and amateurs choose to go for
+          chiropractic care. This is because Chiropractic can improve range of
+          motion, reduce pain, decrease recovery time, assist in injury repair
+          and lead to overall optimal wellness. At Cloete Chiropractic we have
+          had the privilege of working with many professional athletes that
+          competed and are still competing on the global stage. We have worked
+          with Professional golfers, weight lifters, body builders, tennis
+          players, Mountain bikers, Road Cyclists, Trail and road runners and
+          lawn bowlers. And this is just to name a few.
+
+
+
+          We are committed to understanding the sport biomechanics and how the
+          body responds to the sport type so we can get the athlete to their
+          optimal level.
       - title: How do you base your pricing?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
