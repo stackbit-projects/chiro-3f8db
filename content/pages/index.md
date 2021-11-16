@@ -50,7 +50,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Chiropractic Care for All Ages
+      - title: Is Chiropractic Care for All Ages?
         subtitle: >-
           Chiropractors focus on using non-invasive treatment options that are
           effective for all stages of life.
