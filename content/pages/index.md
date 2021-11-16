@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/pexels-karolina-grabowska-4506078.jpg
+        image: /images/pexels-karolina-grabowska-4506078.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
