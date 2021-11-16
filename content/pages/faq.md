@@ -95,7 +95,7 @@ sections:
 
           We take safety and our patients health seriously. We understand that
           each patient is unique and therefore needs unique and gentle care.
-      - title: Who handles the design?
+      - title: Why choose Cloete Chiropractic?
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
