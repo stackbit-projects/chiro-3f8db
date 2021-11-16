@@ -43,6 +43,7 @@ sections:
         content: >
           ### Fairview office park nr.2&#xA;Cnr. Of Knysna road and 1st
           avenue&#xA;&#xA;
+        title: 'George Practice:'
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
