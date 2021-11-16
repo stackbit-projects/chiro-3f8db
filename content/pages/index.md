@@ -50,7 +50,11 @@ sections:
       - image_alt: Logo 2
         image_align: center
         content: |
-          ###
+          Mosselbay golf club suit: 2 
+
+          21st Avenue Mosselbay 
+
+          Dr Inge van der Vyver
         title: Mosselbay practice
     grid_cols: four
     grid_gap_horiz: medium
