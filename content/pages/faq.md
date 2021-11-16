@@ -66,7 +66,7 @@ sections:
           to many patients, as the excessive pressure placed on nerves in the
           body can be relieved. Adjustment allows the body to function
           optimally, removing excess pressure from the musculoskeletal system.
-      - title: What if my business is technical?
+      - title: Why should Athletes see a Chiropractor?
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
