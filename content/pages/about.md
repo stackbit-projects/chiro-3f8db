@@ -2,7 +2,9 @@
 title: About
 seo:
   title: About Cloete Chiropractic
-  description: This is the about page
+  description: >-
+    Dr. Gert Cloete grew up in Namibia and moved back to his birth country of
+    South Africa to study Chiropractic in 2007.
   extra:
     - name: 'og:type'
       value: website
