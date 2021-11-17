@@ -8,7 +8,7 @@ sections:
 
       ##### Have a great day!
     actions:
-      - label: lorem-ipsum
+      - label: Back to home page
         url: '#'
         style: link
         has_icon: false
