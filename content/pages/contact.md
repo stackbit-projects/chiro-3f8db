@@ -9,7 +9,10 @@ sections:
     padding_bottom: medium
     background_color: none
     content: |
-      ##### Call: 0448740025&#xA;Email: drgertcloete@gmail.com
+      ##### Call: 0448740025
+
+
+      Email: drgertcloete@gmail.com
   - type: form_section
     content: |
       #####
