@@ -130,7 +130,6 @@ sections:
     subtitle: where to find us
 seo:
   title: 'Contact Us | Cloete '
-  description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
