@@ -115,7 +115,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
 seo:
-  title: Chiropractic Frequently Asked Questions
+  title: Chiropractor Frequently Asked Questions
   description: >-
     What can you expect during your first chiropractic adjustment? Is
     Chiropractic Care for All Ages?
