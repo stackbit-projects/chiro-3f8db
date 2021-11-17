@@ -60,7 +60,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: chiropractic
+        image_alt: cloete chiropractic
         image_position: top
         image_width: fifty
         image_align: left
