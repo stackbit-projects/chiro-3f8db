@@ -187,7 +187,7 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
 seo:
-  title: Stackbit Personal Theme
+  title: 'Cloete Chiropractic '
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
