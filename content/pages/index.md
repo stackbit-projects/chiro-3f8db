@@ -159,22 +159,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - type: grid_section
-    title: Testimonials
-    subtitle: What My Clients Say
-    grid_items:
-      - image_position: left
-        image_width: twenty-five
-        content_align: center
-    grid_cols: two
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    align: center
-    background_color: secondary
-    background_image: images/watercolor.png
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 12
   - section_id: testimonials
     content: >
       The treatment I received from Dr. Gert Cloete was amazing. I managed to
