@@ -124,7 +124,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Frequently Asked Questions
+      value: Chiropractor Frequently Asked Questions
       keyName: property
     - name: 'og:description'
       value: >-
