@@ -177,7 +177,6 @@ sections:
     background_image_opacity: 12
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >
       The treatment I received from Dr. Gert Cloete was amazing. I managed to
       run the last stage of the Dryland Traverse after missing both the first
