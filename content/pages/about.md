@@ -1,7 +1,7 @@
 ---
 title: About
 seo:
-  title: About
+  title: About Cloete Chiropractic
   description: This is the about page
   extra:
     - name: 'og:type'
