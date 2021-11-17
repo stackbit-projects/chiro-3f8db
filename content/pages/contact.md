@@ -94,7 +94,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Mossel Bay Practice
         title_align: left
         content: |
           Mosselbay golf club suit: 2
