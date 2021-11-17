@@ -127,7 +127,9 @@ seo:
       value: Frequently Asked Questions
       keyName: property
     - name: 'og:description'
-      value: Why should Athletes see a Chiropractor?
+      value: >-
+        hat can you expect during your first chiropractic adjustment? Why should
+        Athletes see a Chiropractor?
       keyName: property
     - name: 'twitter:card'
       value: summary
