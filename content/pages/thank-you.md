@@ -34,10 +34,6 @@ seo:
   description: ''
   robots: []
   extra:
-    - name: 'og:image'
-      value: Thank you for contacting us.
-      keyName: property
-      relativeUrl: true
     - name: 'og:title'
       value: Thank you for contacting us.
       keyName: property
