@@ -115,7 +115,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    background_color: secondary
+    background_color: none
   - type: form_section
     content: >
       ## Let's talk
