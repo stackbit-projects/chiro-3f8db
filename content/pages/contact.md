@@ -10,9 +10,9 @@ sections:
     background_color: none
   - type: form_section
     content: |
-      ## Call: 0448740025
+      ##### Call: 0448740025
 
-      ## Email: drgertcloete@gmail.com
+      ##### Email: drgertcloete@gmail.com
     content_align: left
     form_position: left
     form_width: fifty
