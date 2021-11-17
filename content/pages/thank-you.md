@@ -9,7 +9,7 @@ sections:
       ##### Have a great day!
     actions:
       - label: Back to home page
-        url: '#'
+        url: /
         style: secondary
         has_icon: true
         icon: arrow-left
