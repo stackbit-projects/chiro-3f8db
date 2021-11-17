@@ -54,7 +54,7 @@ sections:
     section_id: contact-form
   - actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: |
           George Practice:
           Fairview office park nr.2
