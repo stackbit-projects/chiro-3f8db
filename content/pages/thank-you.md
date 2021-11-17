@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Thank You
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
