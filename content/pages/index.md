@@ -178,17 +178,15 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      The treatment I received from Dr. Gert Cloete was amazing. I managed to
+      run the last stage of the Dryland Traverse after missing both the first
+      and second stages due to calf injury. Dr. Gert had all his equipment at
+      the race, and I was surprised to see the passion he had for his job. I
+      won’t ever hesitate to refer anybody to him.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      **Prodigal Kumalo,** (Comrades Marathon Gold Medalist)
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
