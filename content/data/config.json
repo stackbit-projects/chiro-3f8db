@@ -102,7 +102,7 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "privicy"
+        "anncmnt_id": "privacy-policy"
     },
     "domain": "https://chiro-3f8db.netlify.app"
 }
