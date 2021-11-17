@@ -77,7 +77,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/IMG_20211117_071919.jpg
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
