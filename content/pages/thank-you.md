@@ -33,6 +33,10 @@ seo:
   title: Thank you for contacting us.
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: Thank you for contacting us.
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
