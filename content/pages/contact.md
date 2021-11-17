@@ -91,6 +91,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     section_id: office
+    title: Loaction
 seo:
   title: Contact
   description: This is the contact page
