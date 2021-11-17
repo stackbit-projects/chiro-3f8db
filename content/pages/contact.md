@@ -13,8 +13,27 @@ sections:
 
       Email: drgertcloete@gmail.com
   - type: form_section
-    content: |
-      #####
+    content: |+
+      ##### George Practice:
+
+      Fairview office park nr.2
+
+      Cnr. Of Knysna road and 1st avenue
+
+      Dr. Gert Cloete
+
+      ##### &#xA;Mossel Bay Practice:
+
+      Fairview office park nr.2
+
+      Cnr. Of Knysna road and 1st avenue
+
+      Dr. Gert Cloete
+
+
+
+
+
     content_align: left
     form_position: left
     form_width: fifty
