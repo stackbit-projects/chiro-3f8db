@@ -129,7 +129,7 @@ sections:
     title: Location
     subtitle: where to find us
 seo:
-  title: 'Contact Us | Cloete '
+  title: Contact Us | Cloete Chiropractic
   extra:
     - name: 'og:type'
       value: website
