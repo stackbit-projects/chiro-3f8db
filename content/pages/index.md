@@ -188,7 +188,9 @@ sections:
     subtitle: What My Clients Say
 seo:
   title: 'Cloete Chiropractic '
-  description: The preview of the Personal theme
+  description: >-
+    loete Chiropractic and team are a dedicated group of health care
+    professionals that aim to achieve optimal health for you and your family.
   extra:
     - name: 'og:type'
       value: website
