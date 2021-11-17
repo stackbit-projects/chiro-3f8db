@@ -37,6 +37,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: /images/IMG_20211117_072259-dd1f111e.jpg
 seo:
   title: ''
   description: ''
