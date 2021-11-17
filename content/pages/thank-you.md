@@ -30,7 +30,7 @@ sections:
     type: hero_section
     background_image: /images/IMG_20211117_072259-dd1f111e.jpg
 seo:
-  title: ''
+  title: Thank you for contacting us.
   description: ''
   robots: []
   extra: []
