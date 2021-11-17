@@ -127,7 +127,7 @@ seo:
       value: Frequently Asked Questions
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: Why should Athletes see a Chiropractor?
       keyName: property
     - name: 'twitter:card'
       value: summary
