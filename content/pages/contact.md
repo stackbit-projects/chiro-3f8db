@@ -3,7 +3,6 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact
-    subtitle: Fill out the form below and I will get in touch you.
     align: center
     padding_top: medium
     padding_bottom: medium
