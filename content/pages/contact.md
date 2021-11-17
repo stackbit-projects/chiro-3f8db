@@ -56,8 +56,7 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     grid_items:
-      - title: l
-        title_align: left
+      - title_align: left
         content_align: center
         actions: []
         actions_align: left
