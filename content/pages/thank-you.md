@@ -3,13 +3,10 @@ title: Thank You
 sections:
   - section_id: lorem-ipsum
     title: Thank You!
-    content: >+
-      ##### Thank you for contacting me. I will get back in touch with you
-      soon. 
+    content: |
+      ##### Thank you for contacting me. I will get back in touch with you soon.
 
-
-      Have a great day!
-
+      ##### Have a great day!
     actions: []
     image_alt: lorem-ipsum
     media_position: top
