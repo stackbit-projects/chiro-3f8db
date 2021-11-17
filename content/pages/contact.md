@@ -62,7 +62,7 @@ sections:
           Cnr. Of Knysna road and 1st avenue
 
           Dr. Gert Cloete
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
