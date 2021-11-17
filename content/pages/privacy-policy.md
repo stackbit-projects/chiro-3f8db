@@ -21,7 +21,7 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-Cloete Chiropractic is committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties. If you have any queries regardin our privacy policy, please email drgertcloete@gmail.com. You can also call us on 0448740025.
+Cloete Chiropractic is committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties. If you have any queries regarding our privacy policy, please email drgertcloete@gmail.com. You can also call us on 0448740025.
 
 ## Cookies
 
