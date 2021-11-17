@@ -85,37 +85,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    title: Location
-    subtitle: Where to find us
-    align: center
-    grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        content_align: center
-        content: |
-          Fairview office park nr.2
-
-          Cnr. Of Knysna road and 1st avenue
-
-          Dr. Gert Cloete
-        title: George Practice
-        title_align: center
-      - image_alt: Logo 2
-        image_align: center
-        content: |
-          Mosselbay golf club suit: 2 
-
-          21st Avenue Mosselbay 
-
-          Dr Inge van der Vyver
-        title: Mossel Bay Practice
-        title_align: center
-        content_align: center
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_color: none
   - type: form_section
     content: >
       ## Let's talk
@@ -160,6 +129,37 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+  - type: grid_section
+    title: Location
+    subtitle: Where to find us
+    align: center
+    grid_items:
+      - image_alt: Logo 1
+        image_align: center
+        content_align: center
+        content: |
+          Fairview office park nr.2
+
+          Cnr. Of Knysna road and 1st avenue
+
+          Dr. Gert Cloete
+        title: George Practice
+        title_align: center
+      - image_alt: Logo 2
+        image_align: center
+        content: |
+          Mosselbay golf club suit: 2 
+
+          21st Avenue Mosselbay 
+
+          Dr Inge van der Vyver
+        title: Mossel Bay Practice
+        title_align: center
+        content_align: center
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    background_color: none
   - section_id: testimonials
     content: >
       The treatment I received from Dr. Gert Cloete was amazing. I managed to
