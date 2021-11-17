@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Thank You!
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
