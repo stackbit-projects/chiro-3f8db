@@ -128,7 +128,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        hat can you expect during your first chiropractic adjustment? Is
+        What can you expect during your first chiropractic adjustment? Is
         Chiropractic Care for All Ages? Why should Athletes see a Chiropractor?
       keyName: property
     - name: 'twitter:card'
