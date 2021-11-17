@@ -1,7 +1,7 @@
 ---
 title: Thank You
 sections:
-  - section_id: lorem-ipsum
+  - section_id: confirmation
     title: Thank You!
     content: |
       ##### Thank you for contacting me. I will get back in touch with you soon.
