@@ -76,8 +76,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/IMG_20211117_072248.jpg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           George Practice:
           Fairview office park nr.2
