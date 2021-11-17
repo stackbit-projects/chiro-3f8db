@@ -116,7 +116,7 @@ sections:
     background_image_opacity: 12
 seo:
   title: Chiropractic Frequently Asked Questions
-  description: This is the faq page
+  description: What can you expect during your first chiropractic adjustment?
   extra:
     - name: 'og:type'
       value: website
