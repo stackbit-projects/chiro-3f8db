@@ -38,5 +38,9 @@ seo:
       value: Thank you for contacting us.
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Thank you for contacting us.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
