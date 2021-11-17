@@ -78,17 +78,13 @@ sections:
         image: /images/IMG_20211117_072248.jpg
       - subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          George Practice:
+          Fairview office park nr.2
 
+          Cnr. Of Knysna road and 1st avenue
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Dr. Gert Cloete
         content_align: left
         actions: []
         actions_align: left
