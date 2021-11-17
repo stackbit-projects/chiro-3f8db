@@ -3,17 +3,13 @@ title: Thank You
 sections:
   - section_id: lorem-ipsum
     title: Thank You!
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ##### Thank you for contacting me. I will get back in touch with you
+      soon. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Have a great day!
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     media_position: top
