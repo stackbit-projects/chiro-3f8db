@@ -166,6 +166,7 @@ sections:
       - content: "The treatment I received from Dr. Gert Cloete was amazing. I managed to run the last stage of the Dryland Traverse after missing both the first and second stages due to calf injury. Dr. Gert had all his equipment at the race, and I was surprised to see the passion he had for his job. I won’t ever hesitate to refer anybody to him.\n\n**Prodigal Kumalo,** (Comrades Marathon Gold Medalist)\r"
         image_position: left
         image_width: twenty-five
+        content_align: center
     grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
