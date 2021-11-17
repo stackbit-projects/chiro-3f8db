@@ -146,5 +146,6 @@ seo:
       value: Contact
     - name: 'twitter:description'
       value: This is the contact page
+  description: 'Contact us to make a booking for our George or Mossel Bay practice. '
 layout: advanced
 ---
