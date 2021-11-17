@@ -115,7 +115,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
 seo:
-  title: Frequently Asked Questions
+  title: Chiropractic Frequently Asked Questions
   description: This is the faq page
   extra:
     - name: 'og:type'
