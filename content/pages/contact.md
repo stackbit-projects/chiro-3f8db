@@ -55,6 +55,24 @@ sections:
   - actions: []
     grid_items:
       - title_align: left
+        content: |
+          George Practice:
+          Fairview office park nr.2
+
+          Cnr. Of Knysna road and 1st avenue
+
+          Dr. Gert Cloete
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        title: George Practice
+      - title_align: left
         content_align: center
         actions: []
         actions_align: left
@@ -76,24 +94,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/IMG_20211117_072248.jpg
-      - title_align: left
-        content: |
-          George Practice:
-          Fairview office park nr.2
-
-          Cnr. Of Knysna road and 1st avenue
-
-          Dr. Gert Cloete
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        title: George Practice
       - title: Mossel Bay Practice
         title_align: left
         content: |
