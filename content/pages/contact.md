@@ -97,7 +97,11 @@ sections:
       - title: lorem-ipsum
         title_align: left
         content: |
-          Mosselbay golf club suit: 221st Avenue MosselbayDr Inge van der Vyver
+          Mosselbay golf club suit: 2
+
+          21st Avenue Mosselbay
+
+          Dr Inge van der Vyver
         content_align: left
         actions: []
         actions_align: left
