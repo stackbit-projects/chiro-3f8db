@@ -52,6 +52,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    title: Fill out the form below and I will get in touch you.
 seo:
   title: Contact
   description: This is the contact page
