@@ -71,7 +71,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: cloete chiroptactic
+        image_alt: cloete chiroptactic office
         image_position: top
         image_width: fifty
         image_align: left
