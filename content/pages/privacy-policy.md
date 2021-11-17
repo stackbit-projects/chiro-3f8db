@@ -25,4 +25,4 @@ Cloete Chiropractic is committed to protecting the privacy of our site visitors 
 
 ## Cookies
 
-Cookies help us provide our customers a better website experience, by enabling us to monitor website performance. By using our website, you agree that we can use these types of cookies to monitor website performance. You can delete these cookies in your browser.
+Cookies help us provide a better website experience for our customers, by enabling us to monitor website performance. By using our website, you agree that we can use these types of cookies to monitor website performance. You can delete these cookies in your browser.
