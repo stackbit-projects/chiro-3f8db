@@ -200,6 +200,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Testimonials
+    subtitle: What my Clients Say
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
