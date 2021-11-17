@@ -73,7 +73,7 @@ sections:
         image_has_padding: false
         title: George Practice
       - title: Mossel Bay Practice
-        title_align: left
+        title_align: center
         content: |
           Mosselbay golf club suit: 2
 
