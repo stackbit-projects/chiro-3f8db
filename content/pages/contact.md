@@ -94,6 +94,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        title: George Practice
       - title: Mossel Bay Practice
         title_align: left
         content: |
