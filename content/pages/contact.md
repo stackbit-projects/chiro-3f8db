@@ -127,6 +127,7 @@ sections:
     type: grid_section
     section_id: office
     title: Location
+    subtitle: where to find us
 seo:
   title: Contact
   description: This is the contact page
