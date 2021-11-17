@@ -72,6 +72,23 @@ sections:
         image_align: left
         image_has_padding: false
         title: George Practice
+      - title: Mossel Bay Practice
+        title_align: left
+        content: |
+          Mosselbay golf club suit: 2
+
+          21st Avenue Mosselbay
+
+          Dr Inge van der Vyver
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - title_align: left
         content_align: center
         actions: []
@@ -94,23 +111,6 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/IMG_20211117_072248.jpg
-      - title: Mossel Bay Practice
-        title_align: left
-        content: |
-          Mosselbay golf club suit: 2
-
-          21st Avenue Mosselbay
-
-          Dr Inge van der Vyver
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
