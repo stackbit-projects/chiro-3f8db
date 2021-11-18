@@ -60,7 +60,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/pexels-ryutaro-tsukata-5473182 (1).jpg
-        image_alt: Feature 2 illustration
+        image_alt: Is Chiropractic care for all ages
         media_position: right
         media_width: sixty
       - title: Why should Athletes see a Chiropractor?
