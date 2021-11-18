@@ -10,7 +10,7 @@ sections:
     content: |+
       ##### Call: 0448740025
 
-      Email: < a href=" drgertcloete@gmail.com""> drgertcloete@gmail.com"< /a>"
+      Email:  drgertcloete@gmail.com
 
   - type: form_section
     content_align: left
