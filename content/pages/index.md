@@ -187,7 +187,7 @@ sections:
 seo:
   title: 'Cloete Chiropractic '
   description: >-
-    loete Chiropractic and team are a dedicated group of health care
+    Cloete Chiropractic and team are a dedicated group of health care
     professionals that aim to achieve optimal health for you and your family.
   extra:
     - name: 'og:type'
