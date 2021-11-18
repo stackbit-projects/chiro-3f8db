@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to Cloete Chiropractic
     actions:
-      - label: Contact Me
+      - label: Contact
         url: /contact
         style: primary
     image: /images/B99R5950-81116d29.jpg
