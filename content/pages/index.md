@@ -204,7 +204,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Personal Theme
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: >-
+        Cloete Chiropractic and team are a dedicated group of health care
+        professionals that aim to achieve optimal health for you and your
+        family.
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
