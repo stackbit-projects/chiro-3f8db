@@ -8,7 +8,7 @@ sections:
         url: /contact
         style: primary
     image: /images/B99R5950-81116d29.jpg
-    image_alt: A smiling woman
+    image_alt: Chiropractor
     media_position: right
     media_width: fifty
     align: left
