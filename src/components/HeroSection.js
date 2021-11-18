@@ -65,7 +65,7 @@ export default class HeroSection extends React.Component {
                                             src={withPrefix(image)}
                                             alt={imageAlt}
                                             className={classNames({
-                                                'mx-auto': alignX === 'center',
+                                                'mx-auto': alignX === 'none',
                                                 'ml-auto': alignX === 'right'
                                             })}
                                         />}
