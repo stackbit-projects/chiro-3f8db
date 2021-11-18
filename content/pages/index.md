@@ -33,7 +33,7 @@ sections:
       about us and what we do.
   - type: features_section
     features:
-      - title: What can you expect during you first chiropractic adjustment?
+      - title: What can you expect during your first chiropractic adjustment?
         subtitle: >-
           Chiropractor’s focus is to firstly evaluate the biomechanical
           structure of the spine.
