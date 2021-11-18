@@ -100,7 +100,7 @@
         "has_anncmnt": false,
         "anncmnt_content": "This website uses cookies to enhance your shopping experience. [**Learn More**](/privacy-policy/)\n",
         "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
+        "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "privacy-policy"
     },
