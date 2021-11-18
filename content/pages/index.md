@@ -9,7 +9,7 @@ sections:
         style: primary
     image: /images/B99R5950-81116d29.jpg
     image_alt: Chiropractor
-    media_position: bottom
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
