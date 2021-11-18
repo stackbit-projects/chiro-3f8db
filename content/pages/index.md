@@ -77,7 +77,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/pexels-karolina-grabowska-4506078-b5bf35cb.jpg
-        image_alt: Feature 3 illustration
+        image_alt: why should athletes see a chiropractor
         media_position: right
         media_width: sixty
     feature_padding_vert: large
