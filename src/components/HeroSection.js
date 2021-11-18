@@ -23,7 +23,7 @@ export default class HeroSection extends React.Component {
         const alignX = _.get(section, 'align', 'center');
         const hasBorder = _.get(section, 'has_border');
         const mediaWidth = _.get(section, 'media_width', 'fifty');
-        const mediaPosition = _.get(section, 'media_position', 'top');
+        const mediaPosition = _.get(section, 'media_position', 'bottom');
         const hasText = title || subtitle || content || !_.isEmpty(actions);
         const hasMedia = image || videoEmbed;
         const isHorizontal = hasText && hasMedia && (mediaPosition === 'left' || mediaPosition === 'right');
