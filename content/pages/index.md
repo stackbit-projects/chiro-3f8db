@@ -195,9 +195,6 @@ seo:
     - name: 'og:title'
       value: Cloete Chiropractic
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Personal theme
-      keyName: property
     - name: 'og:image'
       value: /images/Full-Colour-24dd5f47.png
       keyName: property
