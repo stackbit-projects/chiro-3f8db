@@ -202,7 +202,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Cloete Chiropractic
     - name: 'twitter:description'
       value: >-
         Cloete Chiropractic and team are a dedicated group of health care
