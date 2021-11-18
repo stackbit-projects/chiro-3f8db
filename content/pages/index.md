@@ -209,7 +209,7 @@ seo:
         professionals that aim to achieve optimal health for you and your
         family.
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /images/Full-Colour-24dd5f47.png
       relativeUrl: true
 layout: advanced
 ---
