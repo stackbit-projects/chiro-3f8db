@@ -4,11 +4,11 @@ sections:
   - section_id: confirmation
     title: Thank You!
     content: |
-      ##### Thank you for contacting Cloete Chiropractic. 
+      ##### Thank you for contacting Cloete Chiropractic.
 
       I will get back in touch with you soon.
 
-      ##### Have a great day!
+      ##### Have a wonderful day!
     actions:
       - label: Back to home page
         url: /
