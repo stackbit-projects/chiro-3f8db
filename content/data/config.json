@@ -104,5 +104,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "privacy-policy"
     },
-    "domain": "https://chiro-3f8db.netlify.app"
+    "domain": "https://chiro-3f8db.netlify.app",
+    "favicon": "/images/favicon-32x32.png"
 }
