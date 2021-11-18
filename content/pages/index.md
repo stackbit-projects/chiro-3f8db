@@ -32,7 +32,6 @@ sections:
       If you are new to our website then feel free to explore and learn more
       about us and what we do.
   - type: features_section
-    subtitle: What we do
     features:
       - title: What can you expect during you first chiropractic adjustment?
         subtitle: >-
