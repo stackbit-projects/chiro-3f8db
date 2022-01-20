@@ -56,7 +56,7 @@ export default class Header extends React.Component {
                         >
                             <Action action={action} />
                         </li>
-                       
+                       <
                     )
                 })}
             </ul>
