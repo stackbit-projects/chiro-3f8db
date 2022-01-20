@@ -2,5 +2,12 @@
 publish = "out"
 command = "npm run build"
 environment = { NODE_VERSION = "12" }
+
 [[plugins]]
 package = "@netlify/plugin-sitemap"
+  exclude = [
+    # By file Path
+    './build-dir/path-to/file.html',
+    # By Glob pattern
+    '**/**/child-one.html'
+  ]
