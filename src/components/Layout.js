@@ -92,7 +92,7 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{title}</title>
                     <meta charSet="utf-8" />
-                    <meta property="og:title" content="My page title" key="title" />
+                    <meta name="google-site-verification" content="qPxOLF7aLy0adNfwNCiWaJ_pDOoqmrjqKZb49D7b7Pc" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
