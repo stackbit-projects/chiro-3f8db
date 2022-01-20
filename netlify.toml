@@ -8,5 +8,5 @@ package = "@netlify/plugin-sitemap"
   exclude = [
     # By file Path
     '/privacy-policy',
-    '/privacy-policy',
+    '/404',
   ]
