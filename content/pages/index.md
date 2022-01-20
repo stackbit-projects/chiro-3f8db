@@ -7,7 +7,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-    image: /images/B99R5950-81116d29.jpg
+    image: /images/Doctor Cloete.jpg
     image_alt: Chiropractor
     media_position: right
     media_width: fifty
