@@ -78,6 +78,7 @@ export default class Header extends React.Component {
 
         return (
             <header className="site-header py-2">
+                 <meta name="google-site-verification" content="qPxOLF7aLy0adNfwNCiWaJ_pDOoqmrjqKZb49D7b7Pc" />
                 <div className="container">
                     <nav className="navbar flex items-center" aria-label="Main Navigation">
                         <Link className="sr-only" href="#content">Skip to main content</Link>
