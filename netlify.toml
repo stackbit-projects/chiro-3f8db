@@ -6,7 +6,7 @@ environment = { NODE_VERSION = "12" }
 [[plugins]]
 package = "@netlify/plugin-sitemap"
     [plugins.inputs]
-exclude = [
+    exclude = [
     '/privacy-policy',
     '/404',
     '/thank-you',
