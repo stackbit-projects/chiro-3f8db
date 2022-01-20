@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /thank-you
 Disallow: /404
-Disallow: //privacy-policy
+Disallow: /privacy-policy
 
 
 Sitemap: https://www.truworths.co.za/sitemap.xml
