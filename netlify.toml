@@ -9,4 +9,5 @@ package = "@netlify/plugin-sitemap"
     # By file Path
     '/privacy-policy',
     '/404',
+     '/404',
   ]
