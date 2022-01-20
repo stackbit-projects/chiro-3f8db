@@ -8,6 +8,4 @@ package = "@netlify/plugin-sitemap"
   exclude = [
     # By file Path
     './build-dir/path-to/file.html',
-    # By Glob pattern
-    '**/**/child-one.html'
   ]
