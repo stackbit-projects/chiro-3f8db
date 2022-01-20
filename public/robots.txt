@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /401
+Disallow: //thank-you
 Disallow: /404
 
 
