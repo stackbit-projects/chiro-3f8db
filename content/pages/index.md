@@ -8,7 +8,7 @@ sections:
         url: /contact
         style: primary
     image: /images/Doctor Cloete.jpg
-    image_alt: Chiropractor
+    image_alt: chiropractic adjustment
     media_position: right
     media_width: fifty
     align: left
