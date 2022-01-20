@@ -56,7 +56,7 @@ export default class Header extends React.Component {
                         >
                             <Action action={action} />
                         </li>
-                        <meta name="google-site-verification" content="qPxOLF7aLy0adNfwNCiWaJ_pDOoqmrjqKZb49D7b7Pc" />
+                       
                     )
                 })}
             </ul>
