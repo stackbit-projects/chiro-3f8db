@@ -4,4 +4,4 @@ Disallow: /404
 Disallow: /privacy-policy
 
 
-Sitemap: https://www.truworths.co.za/sitemap.xml
+Sitemap: https://www.cloetechiropractic.co.za/sitemap.xml
