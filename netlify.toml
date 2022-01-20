@@ -10,5 +10,5 @@ package = "@netlify/plugin-sitemap"
     exclude = [
     '**/**/privacy-policy',
     '**/**/404',
-    '/thank-you',
+    '**/**/thank-you',
     ]
