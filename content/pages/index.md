@@ -1,5 +1,5 @@
 ---
-title: Cloete
+title: Home
 sections:
   - type: hero_section
     title: Welcome to Cloete Chiropractic
