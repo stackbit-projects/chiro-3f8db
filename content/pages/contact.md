@@ -8,7 +8,7 @@ sections:
     padding_bottom: medium
     background_color: none
     content: |+
-      ##### Call: 0448740025
+      ##### Call: 0448740025 / 0792210293
 
       Email:  drgertcloete@gmail.com
 
